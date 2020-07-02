@@ -1,3 +1,8 @@
+/*
+ * @author Lewis Sneddon
+ * @version 1.0 02/07/2020
+ */
+
 #include <iostream>
 #include <ctime>
 
